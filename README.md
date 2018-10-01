@@ -1,2 +1,2 @@
-#Profile Template
-This is a simple prifle template/a resume' page.
+# Profile Template
+This is a simple profile template/ resume' page.
