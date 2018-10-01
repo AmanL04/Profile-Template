@@ -1,0 +1,50 @@
+#background{
+	margin:0px;
+	padding:0px;
+	position: fixed;
+}
+.container{
+	margin-bottom: 40px;
+	border-radius: 5px;
+	opacity: 0.9;
+}
+.teal-color{
+	color: #009C95;
+}
+h5{
+	padding-top:0px;
+	margin-top:0px;
+}
+.progress-bar{
+	width:95%;
+	height: 20px;
+	border-radius:15px;
+	background-color: #E5E5E5;
+	padding: 0px;
+	margin: 0px;
+}
+.progress{
+	padding: 0px;
+	margin: 0px;
+	height: 20px;
+	border-radius:15px;
+	background-color: teal;
+}
+#left-side{
+	border-right: 1px solid #EAEAEB;
+}
+.dot{
+	width: 25px;
+	height: 25px;
+	background-color: #bbb;
+	border-radius: 50%;
+	margin-top:10px;
+	margin-left:5px;
+}
+#useless{
+	padding: 0px;
+	margin: 0px;
+}
+#footer{
+	margin-top:30px;
+}
